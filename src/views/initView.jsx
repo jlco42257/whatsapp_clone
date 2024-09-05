@@ -1,6 +1,7 @@
 import WhatsappIcon from '../assets/whatsapp_icon.jsx'
 import MetaIcon from '../assets/meta_icon.jsx'
 import '../styles/initView.css'
+
 function InitView() {
   return (
     <section className='initView__container'>
