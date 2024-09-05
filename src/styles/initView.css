@@ -1,0 +1,29 @@
+.initView__container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.initView__footer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: absolute;
+  bottom: 3rem;
+}
+.footer__p{
+  color: #747774;
+  width: 100%;
+  text-align: center;
+}
+.footer__meta{
+  display: flex;
+}
+.meta__text{
+  color: #00A00D;
+  margin-left: .3rem;
+  font-weight: 500;
+}
